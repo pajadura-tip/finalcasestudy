@@ -1,0 +1,4 @@
+- import_playbook: ken/ospf.yaml
+- import_playbook: ken/aclconf.yaml
+- import_playbook: ken/iproute.yaml
+- import_playbook: ken/Backups.yaml
